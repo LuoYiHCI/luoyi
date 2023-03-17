@@ -1,5 +1,13 @@
 import time
 
+questions = [
+"What's the founding year of Hwa Chong Institution? (Year)",
+"What programs does Hwa Chong Institution offer? (Programs, in short form, seperated by commas)",
+"Size of Hwa Chong Institution? (Size)",
+"Admission process for Hwa Chong Institution? (Admission methods, in dhort form, seperated by commas)",
+"Student-to-faculty ratio at Hwa Chong Institution? (Ratio)",
+"Alumni network of Hwa Chong Institution? (Alumni)"
+]
 
 
 print('Welcome to random trivia quiz about Hwa Chong Institution! (Yay)')
